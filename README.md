@@ -1,3 +1,5 @@
+> Hackathon prototype, no longer maintained. Write-up: [kyungmin-cho/contests](https://github.com/kyungmin-cho/contests/tree/main/2026-10_qloo-taste-truce)
+
 # Taste Truce
 
 Taste Truce shows who concedes what when friends with different tastes pick a place.
